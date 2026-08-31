@@ -4,7 +4,7 @@
 
 ## 📊 Dashboard 360º da Pesquisa de Acompanhamento de Egressos
 
-O **Dashboard 360º da Pesquisa de Acompanhamento de Egressos (PAE)** é um ambiente interativo de *Business Intelligence* e análise visual de dados, desenvolvido pelo **Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN)**. Sua finalidade é sistematizar, modelar e disponibilizar publicamente os microdados acumulados pelas sucessivas edições da pesquisa longitudinal de egressos da instituição.
+O **[Dashboard 360º da Pesquisa de Acompanhamento de Egressos (PAE)](https://datastudio.google.com/reporting/65ae89e1-e001-426e-afa8-917c42104acf)** é um ambiente interativo de *Business Intelligence* e análise visual de dados, desenvolvido pelo **Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN)**. Sua finalidade é sistematizar, modelar e disponibilizar publicamente os microdados acumulados pelas sucessivas edições da pesquisa longitudinal de egressos da instituição.
 
 O painel integra registros acadêmicos censitários com levantamentos amostrais probabilísticos primários, permitindo investigar as trajetórias acadêmicas e profissionais dos ex-alunos sob uma perspectiva multidimensional. A plataforma conecta o perfil sociodemográfico às percepções sobre a formação recebida, à continuidade dos estudos (verticalização), à dinâmica de inserção laboral (formal e ampla) e aos fluxos de mobilidade espacial (migração e pendularidade).
 
