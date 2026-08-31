@@ -1,0 +1,12 @@
+### E. `docs/05_guia_integracao_bi.md`
+
+* **Campos Calculados no Looker Studio:** Expressões analíticas em SQL/Looker para cálculo em tempo real de taxas ponderadas ($NOE$, $TDE$, $IEE_f$, $SQP$, $TEM$, $TPD$).
+* **Estrutura das 4 Páginas do Dashboard 360°:**
+1. *Visão Executiva (KPIs Globais)*;
+2. *Inserção Profissional, Aderência e Renda*;
+3. *Dinâmica Territorial, Migração e Pendularidade*;
+4. *Avaliação Institucional e Satisfação (SINAES)*.
+
+
+
+---
